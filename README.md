@@ -1,16 +1,22 @@
-## Hi there 👋
+```bash
+┌──(NullRootCyber㉿localhost)-[~]
+└─$ whoami
 
-<!--
-**NullRootCyber/NullRootCyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👁️ NullRoot — Ghost in the Machine  
+🔐 Cybersecurity Enthusiast | Linux Monk  
+🧠 Mind Encrypted | Logs Deleted  
+📍 /dev/null | #H4ckTh3W0rld  
 
-Here are some ideas to get you started:
+┌──(NullRootCyber㉿localhost)-[~]
+└─$ uname -a
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🐧 Kali | Debian | Bash | Git  
+💻 Currently building tools & scripts  
+🚧 Projects loading...
+
+┌──(NullRootCyber㉿localhost)-[~]
+└─$ cat contact.me
+
+📧 Email: NullRoot.cyber@gmail.com  
+📷 Instagram: @NullRoot.127.0.0.0  
+🔗 More: coming soon...
